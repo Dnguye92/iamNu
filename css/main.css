@@ -22,6 +22,10 @@ body {
   text-align: center;
 }
 
+#foundcloud .search-button{
+  height: 20px;
+}
+
 #musicwrapper2{
   padding-top:20px;
   text-align: center;
